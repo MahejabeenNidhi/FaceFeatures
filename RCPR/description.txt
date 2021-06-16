@@ -1,3 +1,4 @@
 RCPR code allows you to predict the facial landmarks as well as their occlusion states
 The code is in MATLAB
+  To run the code addpath to the toolbox and compile and then addpath to rcpr file and compile. 
 Need to work on converting it to Python
