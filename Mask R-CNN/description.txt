@@ -1,0 +1,9 @@
+Keras is dependent on Tensorflow. For this to work, keras needs to be upgraded and tensorflow must be downgraded to complement each other. Initially, I used keras==2.4.3 and tensorflow==2.4.1. In order to downgrade tensorflow, had to create it in a virtual environment with Python 3.7.
+
+Had to downgrade further to tensorflow 1.13.1, it worked but a lot of the variables were depreciated
+
+To install pycocotools on Windows:
+Conda install git
+pip3 install "git+https://github.com/philferriere/cocoapi.git#egg=pycocotools&subdirectory=PythonAPI"
+
+Mask R-CNN demo is trained on MS COCO dataset. COCO is a large-scale object detection, segmentation, and captioning dataset. 
