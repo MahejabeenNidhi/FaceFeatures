@@ -1,0 +1,3 @@
+Elliptical regions
+       Each face region is represented as:
+       <major_axis_radius minor_axis_radius angle center_x center_y detection_score>.
