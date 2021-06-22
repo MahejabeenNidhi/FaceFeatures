@@ -1,3 +1,6 @@
 Elliptical regions
        Each face region is represented as:
        <major_axis_radius minor_axis_radius angle center_x center_y detection_score>.
+       
+Adding Ellipse to Mask RCNN code as OG code does not support it 
+https://github.com/matterport/Mask_RCNN/issues/2154
