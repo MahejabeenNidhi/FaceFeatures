@@ -4,6 +4,7 @@ Had to downgrade further to tensorflow 1.13.1, it worked but a lot of the variab
 
 To install pycocotools on Windows:
 Conda install git
+pip install Cython
 pip3 install "git+https://github.com/philferriere/cocoapi.git#egg=pycocotools&subdirectory=PythonAPI"
 
 Mask R-CNN demo is trained on MS COCO dataset. COCO is a large-scale object detection, segmentation, and captioning dataset. 
