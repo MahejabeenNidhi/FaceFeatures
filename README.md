@@ -83,7 +83,11 @@ Research Paper: [Robust Face Landmark Estimation Under Occlusion](http://www.vis
 
 [Code](http://www.vision.caltech.edu/xpburgos/ICCV13/#code)
 
-The original code is in MATLAB. 
+The original code is in MATLAB.
+
+The code relies on [Piotr's Computer Vision Matlab Toolbox](http://pdollar.github.io/toolbox/)
+
+**Utilization of RCPR**
 
 A requirement for a photo to pass is that features such as the eyes and eyebrows cannot be occluded. This paper proposes a way to not only return the facial landmarks but also their occlusion state. 
 
