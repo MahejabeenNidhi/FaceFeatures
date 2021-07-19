@@ -1,2 +1,0 @@
-Most face datasets have different types of backgrounds
-Therefore, to reduce noise, we attempt to remove the background
