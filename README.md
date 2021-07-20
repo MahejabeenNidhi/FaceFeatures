@@ -38,7 +38,7 @@ This is done to reduce the noise produced from diverse backgrounds as use-case i
 
 This would allow us to predict the parameters of facial ellipses. This is important as most biometric photos require the head (bottom of the jaw to top of the head) to cover a certain range of the photo - ensuring that the face is not too far or too close to the camera. Images (500 images for training and 120 for evalution) from several datasets were manually annotated using [VGG Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/). This can be improved by using a more expansive dataset. Attempting to use the model created by this training to implement Ellipse RCNN (below). 
 
-![Image of face mask](/FaceEllipsesFDDB/face_mask.jpeg)
+![Image of face mask](/MaskRCNN/face_mask.jpeg)
 
 **In progress**
 
