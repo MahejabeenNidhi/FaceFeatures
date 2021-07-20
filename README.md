@@ -11,7 +11,7 @@ Check if a person's photo meets the following requirements:
 3. Eyes and eyebrows are not occluded 
 4. There is no flash reflection on face or glasses in the photo 
 5. There is no shadow on the person's face
-6. The ohoto should not be too light 
+6. The photo should not be too light 
 7. The photo should not be too dark
 
 Other requirements:
