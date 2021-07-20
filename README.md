@@ -4,14 +4,15 @@
 
 Check if a person's photo meets the following requirements:
 1. The person is aligned at the center 
-    a. Face (from crown of the head to chin should cover a certain percentage of the face)
+    (a. Face (from crown of the head to chin) should cover a certain percentage of the face
     b. Face has to be horizontally centered; vertical position is more flexible
-3. The person is not wearing a frame across eyes (e.g. glasses)
-4. Eyes and eyebrows are not occluded 
-5. There is no flash reflection on face or glasses in the photo 
-6. There is no shadow on the person's face
-7. The ohoto should not be too light 
-8. The photo should not be too dark
+    c. Head pose (roll, yaw, pitch) needs to be within acceptable range)
+2. The person is not wearing a frame across eyes (e.g. glasses)
+3. Eyes and eyebrows are not occluded 
+4. There is no flash reflection on face or glasses in the photo 
+5. There is no shadow on the person's face
+6. The ohoto should not be too light 
+7. The photo should not be too dark
 
 Other requirements:
 - White background
