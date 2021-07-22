@@ -9,3 +9,7 @@
 Landmark 1 and 17 has been used to find the leftmost and rightmost part of the face. Then considering the shape of the image, the image can be checked to see if the face is horizontally centered
 
 Used facial proportions to estimate the topmost point of the head. Compared crown to chin distance with the height of the image to check if the face covers an adequate percent of the image (not too far from the camera)
+
+
+
+**shape_predictor_68_face_landmarks.dat file (unzipped) needs to be loaded for the code to work**
