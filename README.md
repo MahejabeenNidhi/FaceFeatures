@@ -83,14 +83,24 @@ Research Paper: [FDDB: A Benchmark for Face Detection in Unconstrained Settings]
 
 [FDDB](http://vis-www.cs.umass.edu/fddb/)
 
-**Reasons for choosing this dataset**
+Advantages
 
 - Ground Truth for the bounding box and the ellipses of the faces are available
 - Includes images with occlusions
 
-### Other Datasets Considered
+### Caltech Occluded Faces in the Wild
 
-**Public-IvS database**
+[Database](http://www.vision.caltech.edu/xpburgos/ICCV13/)
+
+Advantage
+- Dataset was created to test the method Robust Cascaded Pose Regression (RCPR)
+- Annotated with 29 landmarks and their respective occlusion states
+
+Disadvantages
+- Virtually no Asian faces 
+
+
+### Public-IvS database
 
 [Database](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/LBL/main.htm)
 
@@ -102,15 +112,5 @@ Disadvantages
 - Not annotated
 - Dataset not created with similar goals as our project 
 
-**Caltech Occluded Faces in the Wild**
-
-[Database](http://www.vision.caltech.edu/xpburgos/ICCV13/)
-
-Advantage
-- Dataset was created to test the method Robust Cascaded Pose Regression (RCPR)
-
-Disadvantages
-- Not annotated
-- Virtually no Asian faces 
 
 
