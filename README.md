@@ -7,16 +7,18 @@ Check if a person's photo meets the following requirements:
     (a. Face (from crown of the head to chin) should cover a certain percentage of the face
     b. Face has to be horizontally centered; vertical position is more flexible
     c. Head pose (roll, yaw, pitch) needs to be within acceptable range)
-- [x] The person is not wearing a frame across eyes (e.g. glasses)
+- [ ] The person is not wearing a frame across eyes (e.g. glasses)
 - [ ] Eyes and eyebrows are not occluded 
-- [x] There is no flash reflection on face or glasses in the photo 
+- [ ] There is no flash reflection on face or glasses in the photo 
 - [ ] There is no shadow on the person's face
-- [x] The photo should not be too light 
-- [x] The photo should not be too dark
+- [ ] The photo should not be too light 
+- [ ] The photo should not be too dark
 
 Other requirements:
 - White background
 - No blur
+- Cannot have multiple faces in one image
+- Cannot have no detectable faces
 
 ## Related Research and Algorithms
 
