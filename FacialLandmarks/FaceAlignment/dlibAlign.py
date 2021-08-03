@@ -29,6 +29,15 @@ def main():
             sg.FileBrowse(file_types=file_types),
             sg.Button("Load Image"),
         ],
+        [
+            sg.Text("Horizontal Center                                                    ", key="-HOR-"),
+        ],
+        [
+            sg.Text("Head Height                                                          ", key="-HEI-"),
+        ],
+        [
+            sg.Text("Head Pose                                                            ", key="-POS-"),
+        ],
     ]
 
     window = sg.Window("Image Viewer", layout)
@@ -43,6 +52,9 @@ def main():
                 imgarr, horizontalCenter, headHeight, headPose = dlibProcessing.Processing(filename)
             imgbytes = cv.imencode(".png", imgarr)[1].tobytes()
             window["-IMAGE-"].update(data=imgbytes)
+            window["-HOR-"].update(horizontalCenter)
+            window["-HEI-"].update(headHeight)
+            window["-POS-"].update(headPose)
 
     window.close()
 
