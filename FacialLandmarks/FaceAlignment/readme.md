@@ -1,1 +1,5 @@
-![Alignment1](faceAlignment.png)
+![Alignment1](align1.png)
+![Align2](Align2.png)
+![Align3](Align3.png)
+![Align4](Align4.png)
+![Align5](Align5.png)
