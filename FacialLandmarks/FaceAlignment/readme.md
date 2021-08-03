@@ -1,5 +1,4 @@
-![Alignment1](align1.png)
-![Align2](Align2.png)
-![Align3](Align3.png)
-![Align4](Align4.png)
-![Align5](Align5.png)
+<img src="https://github.com/MahejabeenNidhi/FaceFeatures/blob/main/FacialLandmarks/FaceAlignment/align1.png" width="400" height="400">
+<img src="https://github.com/MahejabeenNidhi/FaceFeatures/blob/main/FacialLandmarks/FaceAlignment/Align2.png" width="400" height="400">
+<img src="https://github.com/MahejabeenNidhi/FaceFeatures/blob/main/FacialLandmarks/FaceAlignment/Align4.png" width="400" height="400">
+<img src="https://github.com/MahejabeenNidhi/FaceFeatures/blob/main/FacialLandmarks/FaceAlignment/Align5.png" width="400" height="400">
