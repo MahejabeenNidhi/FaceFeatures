@@ -1,6 +1,6 @@
 Classification accuracy metrics
 
-For Glass Detection
+For Glass Detection Model (July 23, 2021)
 
 |  | Positive Prediction | Negative Prediction |
 | ------------- | ------------- | ------------- |
