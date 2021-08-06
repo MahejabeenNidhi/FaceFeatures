@@ -1,4 +1,4 @@
-Classification accuracy metrics
+Confusion Matrix
 
 For Glass Detection Model (July 23, 2021)
 
